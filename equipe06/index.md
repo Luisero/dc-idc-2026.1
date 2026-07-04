@@ -13,7 +13,7 @@ tags:
     - A música para entendimento visual
                        
 weight: 1                                 # <- Deixe como está
-draft: true                               # <- IMPORTANTE: troque para false (ou apague esta linha) quando a postagem estiver pronta para publicar
+draft: false                               # <- IMPORTANTE: troque para false (ou apague esta linha) quando a postagem estiver pronta para publicar
 ---
 
 **Autores**: [Pedro Ernesto Lopes de Oliveira](https://www.instagram.com/erne.pe), [Gabriel Barbosa Fontenele](https://www.instagram.com/gaabrielfontenele), [João Victor Evangelista Dias de Souza](https://www.instagram.com/joaov_evangelista), [Larissa Anastácio Feitosa](https://www.instagram.com/larissa_anastacio)
