@@ -48,10 +48,6 @@ O episódio discute como diferentes condições de rede influenciam a experiênc
 
 * NORONHA NETO, Otávio. *Explorando a jogabilidade em um jogo FPS sob diferentes condições de rede*. Trabalho de Conclusão de Curso, Engenharia de Software, Universidade Federal do Ceará (Campus Russas), 2023.
 
-**Participantes:**
-
-* Lucas Magalhães Fontenele Bizerril
-* Nicolas Wallace Amorim Perote
-* Vitor Nogueira de Sousa
+**Autores**: [Lucas Magalhães](https://www.linkedin.com/in/lucasbizerril/), [Nicolas Wallace](https://www.linkedin.com/in/nicolas-wallace-amorim-perote-62381a1b4/), [Vitor Nogueira](https://www.linkedin.com/in/noguevitor/)
 
 {{< audio "audio.wav" >}}
