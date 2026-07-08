@@ -36,4 +36,4 @@ O artigo discutido no podcast é [Transcriptome profiling of cashew apples (Anac
 {{< audio "podcast.mp3" >}}
 
 Prof.ª Dr.ª Thais Andrade e entrevistadores Maria Karoline e Matheus Finger
-![Foto com professora Thais e os entrevistadores](foto podcast.jpeg)
+![Foto com professora Thais e os entrevistadores](foto_podcast.jpeg)
