@@ -1,5 +1,5 @@
 ---
-title: Título do Post                     # <- Altere o título
+title: Papel da Inteligencia Artificial na detecçao de arritimias cardiacas.                     # <- Altere o título
 description: Breve descrição da postagem  # <- Altere a descrição
 slug: equipe07-temaprincipal            # <- Altere temaprincipal, mantenha o prefixo equipe07-
 date: 2026-01-01 00:00:00+0000            # <- Coloque a data do dia que inseriu o conteúdo
@@ -8,9 +8,9 @@ categories:
     - Post                                # <- Deixe como está
 tags:
     - Tema do Vídeo                       # <- Altere para o tema do vídeo
-    - Tema do Podcast                     # <- Altere para o tema do episódio. Se for igual ao de cima, remova essa linha
+                    
 weight: 1                                 # <- Deixe como está
-draft: true                               # <- IMPORTANTE: troque para false (ou apague esta linha) quando a postagem estiver pronta para publicar
+draft: false                               # <- IMPORTANTE: troque para false (ou apague esta linha) quando a postagem estiver pronta para publicar
 ---
 
 **Autores**: Nome 1, Nome 2 e Nome 3.
