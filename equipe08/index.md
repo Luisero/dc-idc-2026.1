@@ -2,7 +2,7 @@
 title: Dos aliens aos grafos - Evolução das naves no cinema e o problema dos arcos coloridos
 description: Nessa postagens abordamos sobre duas temáticas diferente - primeiro, fazemos uma linha do tempo sobre as naves alieniginas, explicando sobre as caracteristicas fisicas e cada um delas e seus significado no cinema e depois entrevistamos um estudante sobre seu artigo que corrige um problema na área de teoria dos grafos
 slug: equipe08-cinema-e-grafos            
-date: 2026-07-07 00:00:00+0000            # <- Coloque a data do dia que inseriu o conteúdo
+date: 2026-07-08 00:27:00+0000            
 image: DivulgaUFC.png                    
 categories:
     - Post                                
