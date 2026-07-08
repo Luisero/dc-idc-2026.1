@@ -1,9 +1,9 @@
 ---
-title: Título do Post                     # <- Altere o título
+title: "I.A. na vida real: da pesquisa até o dia a dia"
 description: Breve descrição da postagem  # <- Altere a descrição
-slug: equipe11-temaprincipal            # <- Altere temaprincipal, mantenha o prefixo equipe11-
-date: 2026-01-01 00:00:00+0000            # <- Coloque a data do dia que inseriu o conteúdo
-image: cover.jpg                          # <- Nome do arquivo de imagem com a capa (adicione à pasta)
+slug: equipe11-I.A. e computação gráfica            # <- Altere temaprincipal, mantenha o prefixo equipe01-
+date: 2026-07-08 17:28:00+0000            # <- Coloque a data do dia que inseriu o conteúdo
+image: thumb.png                          # <- Nome do arquivo de imagem com a capa (adicione à pasta)
 categories:
     - Post                                # <- Deixe como está
 tags:
@@ -20,6 +20,6 @@ Escreva aqui o texto da sua postagem. Veja o passo a passo completo em guia-pull
 no repositório do site (emanueles/dc-idc).
 -->
 
-{{< youtube "ID_DO_VIDEO" >}}
+{{< youtube "LDy6yMWUziI" >}}
 
-{{< audio "nome-do-arquivo.mp3" >}}
+{{< audio "podcast-final.mp3.mp3" >}}
