@@ -13,7 +13,7 @@ weight: 1
 draft: false
 ---
 
-**Autores**: [Bianca Cavalcante Morais](biacavalcantemorais@gmail.com), [Eric Rodrigues Gomes](https://www.instagram.com/eric.rodrig_omes), [Miguel Moreira Rodrigues](miguelmoreira@alu.ufc.br), [Rafael de Paiva Lima Filho](rafael.limafilho@alu.ufc.br)
+**Autores**: [Bianca Cavalcante Morais](mailto:biacavalcantemorais@gmail.com), [Eric Rodrigues Gomes](https://www.instagram.com/eric.rodrig_omes), [Miguel Moreira Rodrigues](mailto:miguelmoreira@alu.ufc.br), [Rafael de Paiva Lima Filho](mailto:rafael.limafilho@alu.ufc.br)
 
 
 ## A evolução cinematográfica das naves
