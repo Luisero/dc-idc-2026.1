@@ -13,7 +13,7 @@ weight: 1
 draft: false                               
 ---
 
-Autores: [Francisco Lemuel Ferreira Lima](https://www.linkedin.com/in/francisco-lemuel-ferreira-lima-0b261024b/), [Gabriel Loiola de Alencar Dantas](www.linkedin.com/in/gabriellencar), [Lucas Lopes Silva](https://www.linkedin.com/in/lucas-l-silva/), [Luiza Isabelle da Silva Nepomuceno](https://www.linkedin.com/in/luiza-nepomuceno-6994122a0/)
+Autores: [Francisco Lemuel Ferreira Lima](https://www.linkedin.com/in/francisco-lemuel-ferreira-lima-0b261024b/), [Gabriel Loiola de Alencar Dantas](https://www.linkedin.com/in/gabriellencar), [Lucas Lopes Silva](https://www.linkedin.com/in/lucas-l-silva/), [Luiza Isabelle da Silva Nepomuceno](https://www.linkedin.com/in/luiza-nepomuceno-6994122a0/)
 
 Principais tópicos abordados pela equipe: 
  - Arquitetura e Urbanismo
