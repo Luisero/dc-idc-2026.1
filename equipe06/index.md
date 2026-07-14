@@ -3,7 +3,7 @@ title: A ciência por trás da abertura de One Piece X As mulheres que estão à
 description: Como a música de abertura impacta na construção do animê e quais são os desafios vividos por mulheres na Computação.  # <- Altere a descrição
 slug: equipe06-onepiece-tiporelas            # <- Altere temaprincipal, mantenha o prefixo equipe06-
 date: 2026-07-04 00:00:00+0000            # <- Coloque a data do dia que inseriu o conteúdo
-image: Template.jpg                          # <- Nome do arquivo de imagem com a capa (adicione à pasta)
+image: Template.png                          # <- Nome do arquivo de imagem com a capa (adicione à pasta)
 categories:
     - Post                                # <- Deixe como está
 tags:
