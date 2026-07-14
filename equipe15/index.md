@@ -14,7 +14,7 @@ weight: 1
 draft: false                               
 ---
 ## 👥 Equipe 15
-**Autores**: [Maria Gabriela Torres Calvacanti](), [Nina Bianca do Nascimento Lima](https://www.instagram.com/ninabws_), [Pedro Henrique Laurentino Mota](https://www.instagram.com/ph.java), [Willgner Silva Ferreira](https://www.instagram.com/wiu._.wiu)
+**Autores**: Maria Gabriela Torres Calvacanti, [Nina Bianca do Nascimento Lima](https://www.instagram.com/ninabws), [Pedro Henrique Laurentino Mota](https://www.instagram.com/ph.java), [Willgner Silva Ferreira](https://www.instagram.com/wiu._.wiu)
 
 Principais temas e interesses aboradados pela a equipe:
 
