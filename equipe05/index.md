@@ -13,7 +13,7 @@ weight: 1
 draft: false                               
 ---
 
-Autores: [Francisco Lemuel Ferreira Lima] (https://www.linkedin.com/in/francisco-lemuel-ferreira-lima-0b261024b/), [Gabriel Loiola de Alencar Dantas](www.linkedin.com/in/gabriellencar), [Lucas Lopes Silva] (https://www.linkedin.com/in/lucas-l-silva/), [Luiza Isabelle da Silva Nepomuceno] (https://www.linkedin.com/in/luiza-nepomuceno-6994122a0/)
+Autores: [Francisco Lemuel Ferreira Lima](https://www.linkedin.com/in/francisco-lemuel-ferreira-lima-0b261024b/), [Gabriel Loiola de Alencar Dantas](www.linkedin.com/in/gabriellencar), [Lucas Lopes Silva](https://www.linkedin.com/in/lucas-l-silva/), [Luiza Isabelle da Silva Nepomuceno](https://www.linkedin.com/in/luiza-nepomuceno-6994122a0/)
 
 Principais tópicos abordados pela equipe: 
  - Arquitetura e Urbanismo
@@ -23,7 +23,7 @@ Principais tópicos abordados pela equipe:
 
 ## Como os superprédios adoecem uma cidade?
 
-Essa é a pergunta que buscamos responder ao longo da disciplina. Inspirados pelo artigo **"Built to Breathe? Modeling Air Quality with Features of the Built and Natural Environment"** , de Lara Furtado et al. (2025), e pela pesquisa de Francisco Lemuel Ferreira Lima sobre como a luz interage com a matéria — "Espectroscopia Raman e Cálculos de Primeiros Princípios da DL-Fenilalanina" (2020), mergulhamos no universo dos superprédios de fortaleza para investigar como alguns prédios têm a capacidade de alterar o bem-estar de uma metrópole inteira.
+Essa é a pergunta que buscamos responder ao longo da disciplina. Inspirados pelo artigo **"Built to Breathe? Modeling Air Quality with Features of the Built and Natural Environment"** , de Lara Furtado et al. (2025), e pela pesquisa de Francisco Lemuel Ferreira Lima sobre como a luz interage com a matéria — "Espectroscopia Raman e Cálculos de Primeiros Princípios da DL-Fenilalanina" (2020), mergulhamos no universo dos superprédios de Fortaleza para investigar como alguns prédios têm a capacidade de alterar o bem-estar de uma metrópole inteira.
 
 No vídeo a seguir, você entenderá, de uma vez por todas, o que é um superprédio, o que a ciência tem a dizer sobre temperatura e qualidade do ar no entorno dos arranha-céus mais famosos de Fortaleza e o que isso tem a ver com a cor do céu da capital nordestina. 
 
