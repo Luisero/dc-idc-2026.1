@@ -1,25 +1,33 @@
 ---
-title: Título do Post                     # <- Altere o título
-description: Breve descrição da postagem  # <- Altere a descrição
-slug: equipe08-temaprincipal            # <- Altere temaprincipal, mantenha o prefixo equipe08-
-date: 2026-01-01 00:00:00+0000            # <- Coloque a data do dia que inseriu o conteúdo
-image: cover.jpg                          # <- Nome do arquivo de imagem com a capa (adicione à pasta)
+title: Dos aliens aos grafos - Evolução das naves no cinema e o problema dos arcos coloridos
+description: Nessa postagem abordamos sobre duas temáticas diferente - primeiro, fazemos uma linha do tempo sobre as naves alienígenas, explicando sobre as características físicas de cada um delas e seus significados no cinema e depois entrevistamos um estudante sobre seu artigo que corrige um problema na área de teoria dos grafos
+slug: equipe08-cinema-e-grafos            
+date: 2026-07-08 00:00:00+0000           
+image: DivulgaUFC.png                    
 categories:
-    - Post                                # <- Deixe como está
+    - Post                                
 tags:
-    - Tema do Vídeo                       # <- Altere para o tema do vídeo
-    - Tema do Podcast                     # <- Altere para o tema do episódio. Se for igual ao de cima, remova essa linha
-weight: 1                                 # <- Deixe como está
-draft: true                               # <- IMPORTANTE: troque para false (ou apague esta linha) quando a postagem estiver pronta para publicar
+    - Cinema, ficção científica, alienígenas                   
+    - Teoria dos grafos, Cintura
+weight: 1                                 
+draft: false
 ---
 
-**Autores**: Nome 1, Nome 2 e Nome 3.
+**Autores**: [Bianca Cavalcante Morais] (biacavalcantemorais@gmail.com), [Eric Rodrigues Gomes](https://www.instagram.com/eric.rodrig_omes), [Miguel Moreira Rodrigues] (miguelmoreira@alu.ufc.br), [Rafael de Paiva Lima Filho] (rafael.limafilho@alu.ufc.br)
 
-<!--
-Escreva aqui o texto da sua postagem. Veja o passo a passo completo em guia-pull-request.md
-no repositório do site (emanueles/dc-idc).
--->
 
-{{< youtube "ID_DO_VIDEO" >}}
+## A evolução cinematográfica das naves
 
-{{< audio "nome-do-arquivo.mp3" >}}
+O tema do nosso primeiro produto de divulgação científica é a evolução das naves extraterrestres no cinema, inspirado no artigo "Análise de naves alienígenas em filmes de ficção científica voltados para presença/ocupação extraterrestre", do autor Alexandre Valério Ferreira. Procuramos abordar um tema de interesse geral do público jovem, o cinema, com a presença de uma análise da semiótica.
+
+O vídeo se trata de uma linha do tempo na qual abordamos diversos filmes consagrados sobre ocupação extraterrestre, analisando o aspecto físico de cada uma das naves, além de aprofundarmos o que cada elemento pode causar no público e como ele faz isso. Esperamos que vocês aproveitem o vídeo. 
+
+{{< youtube "qiIXwsaimwU" >}}
+
+## O problema da cintura colorida.
+
+Já na produção do nosso podcast, abordamos sobre um problema na teoria dos grafos que se acreditava já está correto, mas apresentava uma falha em sua análise. O artigo que ainda vai se publicado, feito por Rafael de Paiva Lima Filho, aborda sobre o problema recém corrigido da cintura com menor número de cores.
+
+O podcast é uma entrevista com o autor principal que explica um pouco melhor sobre o contexto do problema, o que havia de errado e como foi corrigido e adaptado devidamente.  
+
+{{< audio "Podcast - Entrevista digrafos coloridos" >}}
