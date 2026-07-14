@@ -13,10 +13,10 @@ tags:
 weight: 1                                 
 ---
 
-**Autores**: [Aluizio Pereira Almendra Neto](aluneto@alu.ufc.br), [Américo Vitor Moreira Barbosa](americovitormoreira@alu.ufc.br), [Gabriel Silva Martins de Oliveira](gabrielsmoliveira@alu.ufc.br) e [João Leonardo Rodrigues Santos](https://www.linkedin.com/in/jl-rodrigues/pt)
+**Autores**: [Aluizio Pereira Almendra Neto](mailto:aluneto@alu.ufc.br), [Américo Vitor Moreira Barbosa](mailto:americovitormoreira@alu.ufc.br), [Gabriel Silva Martins de Oliveira](mailto:gabrielsmoliveira@alu.ufc.br) e [João Leonardo Rodrigues Santos](https://www.linkedin.com/in/jl-rodrigues/pt)
 
 
-## Video 🎥:O algoritmo de recomendaçoes utilizado por redes sociais
+## Video 🎥:O algoritmo de recomendações utilizado por redes sociais
 
 Neste trabalho de divulgação científica, escolhemos abordar o tema dos algoritmos de recomendação utilizados pelas redes sociais e as principais técnicas utilizadas para prender a atenção dos usuários. No vídeo, explicamos a psicologia por trás do sistema de recompensa do nosso cérebro e como ela se relaciona com as técnicas de design e com os algoritmos de recomendação de conteúdo utilizados pelas plataformas digitais.
 
@@ -28,7 +28,7 @@ Além da explicação dos conceitos, discutimos como essas estratégias influenc
 
 ## Podcast 🎙: Qualidade do ar em Fortaleza durante a pandemia da COVID-19?
 
-Nesse episodio de podcast, abordamos sobre o impacto da pandemia da COVID-19 no ar de fortaleza, entendendo como a pesquisa foi conduzida e os resultados obtidos. A inspiraçao para este episodio foi um artigo desenvolvido por pesquisadores da Universidade Federal do Ceara (UFC), contando com a presença de um dos autores, Professor Juvencio Nobre do Departamento de Estatistica e Matematica Aplicada (DEMA), que contribuiu com a analise e coleta dos dados.
+Nesse episodio de podcast, abordamos sobre o impacto da pandemia da COVID-19 no ar de fortaleza, entendendo como a pesquisa foi conduzida e os resultados obtidos. A inspiração para este episódio foi um artigo desenvolvido por pesquisadores da Universidade Federal do Ceará (UFC), contando com a presença de um dos autores, Professor Juvencio Nobre, do Departamento de Estatística e Matemática Aplicada (DEMA), que contribuiu com a análise e coleta dos dados.
 
 **Artigo:**
 
